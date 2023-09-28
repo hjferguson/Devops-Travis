@@ -1,0 +1,16 @@
+{
+  "name": "devops-travis",
+  "version": "1.0.0",
+  "description": "Harlan Ferguson 101133838",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hjferguson/Devops-Travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
